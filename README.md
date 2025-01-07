@@ -168,5 +168,5 @@ This project is open source and available under the MIT License.
 ## Contact
 
 For any inquiries or feedback, please reach out:
-- **Email:** salimajibola@example.com
+- **Email:** salimajibola06@gmail.com
 - **GitHub:** [SalimAjibola](https://github.com/SalimAjibola)
