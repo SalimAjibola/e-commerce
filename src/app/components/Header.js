@@ -123,7 +123,7 @@ const Header = () => {
                     </div>
                 </div>
 
-                <div className='flex justify-center items-center space-x-8 pb-2 bg-sky-700 text-white z-0'>
+                <div className='flex justify-center items-center space-x-8 pb-2 bg-slate-700 text-white z-0'>
                     <Link href={'/category/mens-clothing'}>
                         <button className='capitalize opacity-50 hover:opacity-100'>
                             men's clothing
