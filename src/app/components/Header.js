@@ -39,7 +39,7 @@ const Header = () => {
     return (
         <div>
             <div className='grid sm:grid-rows-1'>
-                <div className='flex items-center min-w-screen px-8 pt-4 bg-sky-700 text-white'>
+                <div className='flex items-center min-w-screen px-8 pt-4 bg-slate-700 text-white'>
                     <Link
                         href={'/'}
                         className='text-4xl capitalize mx-4'
